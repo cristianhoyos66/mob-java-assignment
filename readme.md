@@ -30,13 +30,12 @@ The project attemptst to follow and **Package by Layer** in combination with **P
 
 Some of the below design patterns were taken into account even if not all were implemented due to the solution complexity.
 
-### SOLID (Single Responsibility, Open Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
-### DRY (Don't Repeat Yourself)
-### Builder
-### Use Proper Naming Conventions
-### Don't comment the code
-For this one the intention is that the code could be well understood by reading it, so hopefully that can be done.
-### String Builder
+- SOLID (Single Responsibility, Open Closed, Liskov Substitution, Interface Segregation, Dependency Inversion)
+- DRY (Don't Repeat Yourself)
+- Builder
+- Use Proper Naming Conventions
+- Don't comment the code. For this one the intention is that the code could be well understood by reading it, so hopefully that can be done.
+- String Builder
 
 ### Note:
 There might be more that I forgot to mention but the main intention is to make the code scalable and maintainable.
